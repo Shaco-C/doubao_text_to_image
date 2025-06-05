@@ -24,7 +24,7 @@
 
 ## demo页面展示
 
-![](X:\MarkDown\Pics\example.png)
+![demo](https://github.com/Shaco-C/doubao_text_to_image/blob/main/imgs/example.png)
 
 ## 技术栈
 
