@@ -20,6 +20,12 @@
 
 这是一个基于React和NestJS的AI聊天与图像生成应用，前端使用React展示界面，后端使用NestJS处理API请求，并调用方舟API生成图像。
 
+
+
+## demo页面展示
+
+![](X:\MarkDown\Pics\example.png)
+
 ## 技术栈
 
 - 前端：React 19 + TypeScript + Vite
